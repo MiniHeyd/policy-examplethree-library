@@ -1,0 +1,3 @@
+# enforce-mandatory-tags
+
+Example
